@@ -9,10 +9,17 @@ My resumé may also be viewed [here](https://www.raemibux.dev/about/resume) in c
 
 ---
 
-- Contact Info
-- Professional Summary (i.e. Overview)
-- Skills
-- Languages
-- Projects
-- Work Experience
-- Education
+- Contact Info 📞
+- Professional Summary (i.e. Overview) 📜
+- Skills 🍳
+- Languages 👩‍💻
+- Projects 💼
+- Work Experience 🏢
+- Education 🏫
+
+### Q&A
+
+---
+
+- Q: Why do I need a separate resume for printing and/or exporting to PDF?
+  - A: Because my current resume on my website doesn't translate to print format well yet (as of 2024/11/25).
